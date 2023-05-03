@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Blockchain (Kotlin)/task/build/
+/Blockchain (Kotlin)/task/out/
+/Blockchain (Kotlin)/task/out/production/classes/
+/Blockchain (Kotlin)/task/out/test/classes/
+/Topics/Array exceptions/Calculate Square/out/
+/Topics/Array exceptions/Calculate Square/out/production/classes/
+/Topics/ArrayDeque/Palindrome test/out/
+/Topics/ArrayDeque/Palindrome test/out/production/classes/
+/Topics/Collection transformations/The secret code/out/
+/Topics/Collection transformations/The secret code/out/production/classes/
+/Topics/Comparable and Comparator/Which book is cheaper/out/
+/Topics/Comparable and Comparator/Which book is cheaper/out/production/classes/
+/Topics/Custom annotations/Get response/out/
+/Topics/Custom annotations/Get response/out/production/classes/
+/Topics/Fold and reduce on collections/Harry and the Spell Power/out/
+/Topics/Fold and reduce on collections/Harry and the Spell Power/out/production/classes/
+/Topics/Grouping collections/List of students/out/
+/Topics/Grouping collections/List of students/out/production/classes/
+/Topics/Infix functions/List of students' grades/out/
+/Topics/Infix functions/List of students' grades/out/production/classes/
+/Topics/Kotlinx datetime library/DateTimePeriod class/out/
+/Topics/Kotlinx datetime library/DateTimePeriod class/out/production/classes/
+/Topics/Kotlinx datetime library/Leap Year/out/
+/Topics/Kotlinx datetime library/Leap Year/out/production/classes/
+/Topics/Lambda with receiver/Test if a number is divisible/out/
+/Topics/Lambda with receiver/Test if a number is divisible/out/production/classes/
+/Topics/Local date and time/How many days until/out/
+/Topics/Local date and time/How many days until/out/production/classes/
+/Topics/Mapping transformation/Harry and the Spell Power/out/
+/Topics/Mapping transformation/Harry and the Spell Power/out/production/classes/
+/Topics/Parameterized test/Palindromes/out/
+/Topics/Parameterized test/Palindromes/out/production/classes/
